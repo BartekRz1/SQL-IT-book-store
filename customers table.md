@@ -32,3 +32,17 @@ UPDATE customers set emile = "";
 
 ![image](https://github.com/BartekRz1/SQL-IT-book-store/assets/131479846/b274dfe2-822e-450f-9418-ce4447320fc6)
 
+
+Updating data
+````
+UPDATE `customers` SET `Emile` = 'emma@thomas.example.com' WHERE `customers`.`CustomersID` = 3;
+UPDATE `customers` SET `Emile` = 'aiden@taylor.example.com' WHERE `customers`.`CustomersID` = 4;
+UPDATE `customers` SET `Emile` = 'ethan@johnson.example.com' WHERE `customers`.`CustomersID` = 5;
+UPDATE `customers` SET `Emile` = 'ava@williams.example.com' WHERE `customers`.`CustomersID` = 6;
+UPDATE `customers` SET `Emile` = 'noah@brown.example.com' WHERE `customers`.`CustomersID` = 7;
+UPDATE `customers` SET `Emile` = 'sophia@martinez.example.com' WHERE `customers`.`CustomersID` = 8;
+UPDATE `customers` SET `Emile` = 'olivia@smith.example.com' WHERE `customers`.`CustomersID` = 1;
+UPDATE `customers` SET `Emile` = 'liam@anderson.example.com' WHERE `customers`.`CustomersID` = 2;
+````
+
+![image](https://github.com/BartekRz1/SQL-IT-book-store/assets/131479846/448b0337-109e-4e0e-a575-e1eb86eef8c7)
