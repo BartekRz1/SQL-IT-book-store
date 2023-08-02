@@ -1,4 +1,4 @@
-
+Creating and Inserting table 
 ````
 CREATE TABLE `customers` (
   `Customers ID` int(11) NOT NULL,
@@ -23,5 +23,12 @@ INSERT INTO `customers` (`Customers ID`, `Name`, `Last Name`, `Emile`) VALUES
 
 
 
+Rename Customers ID and deleting data from column emile
 
+````
+ALTER TABLE `customers` CHANGE `Customers ID` `CustomersID` INT(11) NOT NULL AUTO_INCREMENT;
+UPDATE customers set emile = "";
+````
+
+![image](https://github.com/BartekRz1/SQL-IT-book-store/assets/131479846/b274dfe2-822e-450f-9418-ce4447320fc6)
 
