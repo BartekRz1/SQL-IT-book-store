@@ -1,4 +1,5 @@
 
+````
 CREATE TABLE `customers` (
   `Customers ID` int(11) NOT NULL,
   `Name` text NOT NULL,
@@ -16,8 +17,10 @@ INSERT INTO `customers` (`Customers ID`, `Name`, `Last Name`, `Emile`) VALUES
 (6, 'ava', 'williams', 'ava.williams@example.com'),
 (7, 'noah', 'brown', 'noah.brown@example.com'),
 (8, 'sophia', 'martinez', 'sophia.martinez@example.c');
+````
 
-![image](https://github.com/BartekRz1/SQL-IT-book-store/assets/131479846/c2241bfc-cb97-4404-89ca-efe6beec8bb1)
+![image](https://github.com/BartekRz1/SQL-IT-book-store/assets/131479846/eca0056b-71cf-4e0d-b4dd-6bc817589859)
+
 
 
 
