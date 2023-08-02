@@ -17,5 +17,8 @@ INSERT INTO `customers` (`Customers ID`, `Name`, `Last Name`, `Emile`) VALUES
 (7, 'noah', 'brown', 'noah.brown@example.com'),
 (8, 'sophia', 'martinez', 'sophia.martinez@example.c');
 
+![image](https://github.com/BartekRz1/SQL-IT-book-store/assets/131479846/c2241bfc-cb97-4404-89ca-efe6beec8bb1)
+
+
 
 
