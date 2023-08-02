@@ -1,3 +1,4 @@
+Creating a books table
 ````
 CREATE TABLE `it book store`.`books` (
   `BookID` INT(255) NOT NULL AUTO_INCREMENT,
